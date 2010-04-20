@@ -10,6 +10,7 @@ public class Git {
 	
 	public void Branch() {
 		System.out.println("this is a branch code");
+		System.out.println("this line is added as branche version2");
 	}
 	
 	public void getVersion() {
